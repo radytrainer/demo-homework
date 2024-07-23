@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    color: red;
+}
+#first-header {
+    color: red;
+}
+#second-header {
+    color: green;
+}
+#third-header {
+    color: blue;
+}
